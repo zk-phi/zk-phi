@@ -3,9 +3,7 @@ A software engineer in Japan.
 - Web: https://zk-phi.github.io
 - Twitter: [@zk_phi](https://twitter.com/zk_phi)
 
-#  Repositories
-
-Try searching with:
+Repositories
 
 - [Emacs plugins](https://github.com/zk-phi?tab=repositories&q=emacs)
 - [Keyboard designs](https://github.com/zk-phi?tab=repositories&q=keyboard)
