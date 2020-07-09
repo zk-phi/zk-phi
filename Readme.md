@@ -7,8 +7,8 @@ A software engineer in Japan.
 
 Try searching with:
 
-- ["emacs"](https://github.com/zk-phi?tab=repositories&q=emacs)
-- ["keyboard"](https://github.com/zk-phi?tab=repositories&q=keyboard)
-- ["webapp"](https://github.com/zk-phi?tab=repositories&q=webapp)
-- ["font"](https://github.com/zk-phi?tab=repositories&q=font)
-- [etc](https://github.com/zk-phi?tab=repositories&q=NOT+emacs+NOT+keyboard+NOT+webapp+NOT+font)
+- [Emacs plugins](https://github.com/zk-phi?tab=repositories&q=emacs)
+- [Keyboard designs](https://github.com/zk-phi?tab=repositories&q=keyboard)
+- [Browser apps](https://github.com/zk-phi?tab=repositories&q=webapp)
+- [Fonts](https://github.com/zk-phi?tab=repositories&q=font)
+- [Others](https://github.com/zk-phi?tab=repositories&q=NOT+emacs+NOT+keyboard+NOT+webapp+NOT+font)
