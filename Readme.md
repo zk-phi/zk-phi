@@ -11,4 +11,4 @@ Try searching with:
 - ["keyboard"](https://github.com/zk-phi?tab=repositories&q=keyboard)
 - ["webapp"](https://github.com/zk-phi?tab=repositories&q=webapp)
 - ["font"](https://github.com/zk-phi?tab=repositories&q=font)
-- etc
+- [etc](https://github.com/zk-phi?tab=repositories&q=NOT+emacs+NOT+keyboard+NOT+webapp+NOT+font)
