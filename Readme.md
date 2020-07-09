@@ -1,9 +1,9 @@
 # about:zk-phi
 
-https://zk-phi.github.io/index_en.html
+A software engineer working in Japan.
 
-- Country: JP
-- Twitter: @zk_phi
+- Web: https://zk-phi.github.io
+- Twitter: [@zk_phi](https://twitter.com/zk_phi)
 
 #  Repositories
 
