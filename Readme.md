@@ -8,5 +8,6 @@ Repositories
 - [Emacs plugins](https://github.com/zk-phi?tab=repositories&q=emacs)
 - [Keyboard designs](https://github.com/zk-phi?tab=repositories&q=keyboard)
 - [Browser apps](https://github.com/zk-phi?tab=repositories&q=webapp)
+- [Slack apps](https://github.com/zk-phi?tab=repositories&q=slack)
 - [Fonts](https://github.com/zk-phi?tab=repositories&q=font)
 - [Others](https://github.com/zk-phi?tab=repositories&q=NOT+emacs+NOT+keyboard+NOT+webapp+NOT+font)
