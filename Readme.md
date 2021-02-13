@@ -6,9 +6,9 @@ A software engineer in Japan.
 Repositories
 
 - [dotfiles](https://github.com/zk-phi/dotfiles)
-- [Emacs plugins](https://github.com/zk-phi?tab=repositories&q=emacs)
-- [Keyboard designs](https://github.com/zk-phi?tab=repositories&q=keyboard)
-- [Browser apps](https://github.com/zk-phi?tab=repositories&q=webapp)
-- [Slack apps](https://github.com/zk-phi?tab=repositories&q=slack)
-- [Fonts](https://github.com/zk-phi?tab=repositories&q=font)
-- [Others](https://github.com/zk-phi?tab=repositories&q=NOT+emacs+NOT+keyboard+NOT+webapp+NOT+slack+NOT+font)
+- [Emacs plugins](https://github.com/zk-phi?tab=repositories&q=topic:emacs)
+- [Keyboard designs](https://github.com/zk-phi?tab=repositories&q=topic:keyboard)
+- [Browser apps](https://github.com/zk-phi?tab=repositories&q=topic:web)
+- [Slack apps](https://github.com/zk-phi?tab=repositories&q=topic:slack)
+- [Fonts](https://github.com/zk-phi?tab=repositories&q=topic:font)
+- [Others](https://github.com/zk-phi?tab=repositories&q=NOT+topic:emacs+NOT+topic:keyboard+NOT+topic:web+NOT+topic:slack+NOT+topic:font)
