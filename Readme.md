@@ -11,4 +11,4 @@ Repositories
 - [Browser apps](https://github.com/zk-phi?tab=repositories&q=topic:web)
 - [Slack apps](https://github.com/zk-phi?tab=repositories&q=topic:slack)
 - [Fonts](https://github.com/zk-phi?tab=repositories&q=topic:font)
-- [Others](https://github.com/zk-phi?tab=repositories&q=NOT+topic:emacs+NOT+topic:keyboard+NOT+topic:web+NOT+topic:slack+NOT+topic:font)
+- [Others](https://github.com/zk-phi?tab=repositories&q=topic:other)
